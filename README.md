@@ -11,7 +11,7 @@
 
 <p align="center">
     <!-- Profile Views Badge -->
-    <img src="https://komarev.com/ghpvc/?username=snehashish-das&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=LeriniliaM&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views" />
     <!-- Status Badge -->
     <img src="https://img.shields.io/badge/STATUS-ACTIVE-hotpink?style=for-the-badge&logo=github&logoColor=white" alt="Profile status" />
 </p>
