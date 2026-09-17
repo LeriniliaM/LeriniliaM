@@ -192,6 +192,11 @@
     </td>
   </tr>
 </table>
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LeriniliaM/LeriniliaM/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</p>
 
 
 <h3 align="left">Stats:</h3>
